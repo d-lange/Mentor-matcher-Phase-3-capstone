@@ -23,6 +23,6 @@ Mentorship is built with Ruby on Rails, LinkedIn's OmniAuth API, PostgreSQL, Jav
 
 
 #View
-[Mentorship](http://www.mentorship-app.com) is live online, and you can sign up and sign in with your LinkedIn account!
+[Mentorship](http://www.mentorship-app.com/demo) is live online, and you can sign up and sign in with your LinkedIn account!
 
 If you have any suggestions or would like to get in touch, contact jaclynfeminella@gmail.com.
